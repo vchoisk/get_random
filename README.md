@@ -17,8 +17,8 @@ $ git checkout -b BRANCH_NAME
 $ git add/commit/push 
 ```
 
-3. 1차 제출시 작업중인 branch를 master branch로 Pull Request(PR) 생성를 한다. 
-
+3. 1차 제출시 작업중인 branch를 master branch로 [Pull Request(PR)](https://help.github.com/articles/about-pull-requests/)생성를 한다. 
+  - 현재 Riiid에서 PR을 통해 같이 작업하는 방식의 [예시](https://apply.riiid.app/677) 입니다.
 4. Riiid 개발자들이 PR에 남긴 feedback을 반영하여 최종적으로 기술면접을 수정/제출한다.
 
 # get_random
